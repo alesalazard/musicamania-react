@@ -1,0 +1,16 @@
+.home {
+    text-align: center;
+    color: #0768ff;
+    padding-left: 10px;
+    background-color: #bfd4f9;
+    margin: 5px;
+    padding: 150px;
+    height: 1000px;
+  }
+
+  .button-start {
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    color: #0768ff;
+  }
