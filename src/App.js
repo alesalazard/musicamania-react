@@ -1,5 +1,4 @@
 import './App.css';
-import './images/penta.png';
 import Routing from './routes/Routes';
 
 function App() {
@@ -9,5 +8,4 @@ function App() {
     </>  
   );
 }
-
 export default App;

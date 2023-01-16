@@ -1,5 +1,4 @@
 import React from "react";
-import '../styles/Card.css';
 import Button from "./Button";
 const Card = (props) =>{
   return (
@@ -16,7 +15,9 @@ const Card = (props) =>{
           <p><input type="radio" id="option4" name="cantante"value="option4" />
           <label for="option4">{props.option4}</label></p>
         </div>
-        <Button />
+        <Button 
+          text={'Enviar'}
+        />
       </div>
     </div>
   )
