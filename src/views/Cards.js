@@ -3,13 +3,14 @@ import '../styles/Card.css';
 import Button from "../component/Button";
 import Card from "../component/Card";
 
+// Recibe los props individuales de cada card.
 const Cards = () => {
   const navigate = useNavigate();
-
   return (
     <>
       <h2>Elige Una de las Opciones</h2>
       <div className='container'>
+        <h3>Rockeras</h3>
         <Card 
           question = '1. ¿Grupo que canta Yesterday?'
           option1 = 'The Beatles'

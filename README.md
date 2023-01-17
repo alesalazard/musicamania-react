@@ -1,2 +1,3 @@
 # musicamania-react
-Trivia musical realizada con React
+## Trivia musical realizada con React
+![pentagrama](src\images\penta.png)

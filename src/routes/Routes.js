@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Start from "../views/Start"
 import Cards from "../views/Cards"
 
+// Permita la navegación entre vistas.
 function Routing() {
   return (
     <BrowserRouter>

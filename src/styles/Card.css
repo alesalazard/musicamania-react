@@ -18,7 +18,7 @@
     width: 320px;
     height: 180px;
     margin-left: 50px;
-    background-color: #f7fbaf;
+    background-color: #f4f5d3;
     padding: 10px;
     border: solid #484ea9 5px;
     box-shadow: 0 3px 13px 1px rgb(0 0 0 / 50%);
@@ -44,11 +44,15 @@ button {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 15px;
 }
 
 h2 {
     text-align: center;
     margin-top: 30px;
-    color: #0815ba;;
+    color: #0815ba;
+}
+
+h3 {
+    color: aliceblue;
+    margin-left: 150px;
 }
